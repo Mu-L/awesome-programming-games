@@ -41,6 +41,7 @@ this criterion and will eventually be moved to a separate
 | [*Combat Zone* (1993)](https://corewar.co.uk/combatzone.htm) | Shareware robot battler for Windows 3.x. Language possibly inspired by Logo. |
 | [*CoreLife* (1993)](https://corewar.co.uk/corelife.htm) | "Programs are written in a two-dimensional assembly-like language. Each instruction has one or two arguments and direction flags to indicate the flow of control." An influence on the later *TIS-100*? |
 | [*TclRobots* (1994)](https://wiki.tcl-lang.org/page/TclRobots) | Like *Crobots* but with Tcl instead of C. Both written by the same author, Tom Poindexter. |
+| [*MindRover* (1999)](https://en.wikipedia.org/wiki/MindRover) | The spiritual successor to *Robot Odyssey*, with robots powered by circuit building somewhat like a visual hardware description language. These robots can then be set loose on a number of different challenges and not only warfare as in many other titles. |
 | [*TORCS* (2001)](http://torcs.sourceforge.net/) | *The Open Racing Car Simulator*, developed since 1997 and usable both with human driving and the automated sense relevant here. Has been used in [numerous research papers](https://scholar.google.com/scholar?q="Open+Racing+Car+Simulator") since its release. |
 
 ## Recent Games, Traditional Software
@@ -113,7 +114,6 @@ under the "programming" rubric. I have now excluded a number of titles such as
 | [*Mechanica*](https://store.steampowered.com/app/1226990/Mechanica/) | Automate manufacturing and base defenses using a visual programming language in an inhospitable desert wasteland. |
 | [*MHRD*](https://store.steampowered.com/app/576030/MHRD/) | Work for the startup company "Microhard" and build circuitry with a hardware description language starting from basic logic gates and leading all the way up to a full-fledged CPU.   |
 
-* [MindRover](https://en.wikipedia.org/wiki/MindRover)
 * [Minecraft Hour of Code](https://code.org/minecraft)
 * [Move Code Lines](https://store.steampowered.com/app/1300310/Move_Code_Lines/)
 * [NebuLeet](https://store.steampowered.com/app/3024370/NebuLeet)
