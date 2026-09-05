@@ -5,5 +5,6 @@
 * [HackThisSite](https://www.hackthissite.org/)
 * [Hacker 101 CTF](https://ctf.hacker101.com/)
 * [Komodo Consulting CTF](http://ctf.komodosec.com/)
+* [OverTheWire](https://overthewire.org/wargames/)
 * [exploit.education](https://exploit.education/)
 * [io.netgarage.org](https://io.netgarage.org/)
