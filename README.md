@@ -200,7 +200,6 @@ under the "programming" rubric. I have now excluded a number of titles such as
 | [*Microcorruption*](https://microcorruption.com/) | Learn about memory corruption from basics using an online debugger for Texas Instruments' MSP430 16-bit microcontroller. Use assembly code to hack locking mechanisms in order to steal "[Cy Yombinator](https://www.ycombinator.com/)" bearer bonds worth billions. Included here because it is distinctly more gamified than other CTF challenges. |
 |[*NandGame*](http://nandgame.com/) | A game where you start from the humble NAND gate and build all the way to a more or less full-fledged processor. Inspired by the book and course [*nand2tetris*](https://www.nand2tetris.org/), or *From NAND to Tetris: Building a Modern Computer from First Principles*. |
 
-* [picoCTF](https://picoctf.com/)
 * [Practice CTF List / Permanent CTF List](http://captf.com/practice-ctf/) (a
   comprehensive list of CTF challenges specifically; have not examined every
 entry; see also this [Stack Exchange

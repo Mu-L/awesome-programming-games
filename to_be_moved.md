@@ -1,4 +1,5 @@
 * [CTF Learn](https://ctflearn.com/)
+* [CyLab Security Academy](https://cylabacademy.org/)
 * [Damn Vulnerable Web Application](https://github.com/ethicalhack3r/DVWA)
 * [Google Gruyère](https://google-gruyere.appspot.com/)
 * [HBH (aka Hellbound Hackers)](https://www.hellboundhackers.org/)
