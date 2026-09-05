@@ -199,7 +199,6 @@ under the "programming" rubric. I have now excluded a number of titles such as
 | [*Manufactoria*](http://pleasingfungus.com/Manufactoria/) | A game about "putting robots \[more specifically a kind of finite automata\] in their place". Old Flash game, but still appears to work on Kongregate through Ruffle. |
 | [*Microcorruption*](https://microcorruption.com/) | Learn about memory corruption from basics using an online debugger for Texas Instruments' MSP430 16-bit microcontroller. Use assembly code to hack locking mechanisms in order to steal "[Cy Yombinator](https://www.ycombinator.com/)" bearer bonds worth billions. Included here because it is distinctly more gamified than other CTF challenges. |
 
-* [Much Assembly Required](https://muchassemblyrequired.com/)
 * [NandGame](http://nandgame.com/)
 * [OverTheWire](https://overthewire.org/wargames/)
 * [picoCTF](https://picoctf.com/)
