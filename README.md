@@ -198,8 +198,8 @@ under the "programming" rubric. I have now excluded a number of titles such as
 | [*Leek Wars*](https://leekwars.com/) | Be a farmer and send your leeks into the ~~bloody~~ oniony fray to become the new emperor or empress. Runs on LeekScript, a custom imperative and object-oriented language that is weakly typed and inspired by JavaScript and PHP. |
 | [*Manufactoria*](http://pleasingfungus.com/Manufactoria/) | A game about "putting robots \[more specifically a kind of finite automata\] in their place". Old Flash game, but still appears to work on Kongregate through Ruffle. |
 | [*Microcorruption*](https://microcorruption.com/) | Learn about memory corruption from basics using an online debugger for Texas Instruments' MSP430 16-bit microcontroller. Use assembly code to hack locking mechanisms in order to steal "[Cy Yombinator](https://www.ycombinator.com/)" bearer bonds worth billions. Included here because it is distinctly more gamified than other CTF challenges. |
+|[*NandGame*](http://nandgame.com/) | A game where you start from the humble NAND gate and build all the way to a more or less full-fledged processor. Inspired by the book and course [*nand2tetris*](https://www.nand2tetris.org/), or *From NAND to Tetris: Building a Modern Computer from First Principles*. |
 
-* [NandGame](http://nandgame.com/)
 * [OverTheWire](https://overthewire.org/wargames/)
 * [picoCTF](https://picoctf.com/)
 * [Practice CTF List / Permanent CTF List](http://captf.com/practice-ctf/) (a
