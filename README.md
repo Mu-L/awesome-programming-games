@@ -200,12 +200,6 @@ under the "programming" rubric. I have now excluded a number of titles such as
 | [*Microcorruption*](https://microcorruption.com/) | Learn about memory corruption from basics using an online debugger for Texas Instruments' MSP430 16-bit microcontroller. Use assembly code to hack locking mechanisms in order to steal "[Cy Yombinator](https://www.ycombinator.com/)" bearer bonds worth billions. Included here because it is distinctly more gamified than other CTF challenges. |
 |[*NandGame*](http://nandgame.com/) | A game where you start from the humble NAND gate and build all the way to a more or less full-fledged processor. Inspired by the book and course [*nand2tetris*](https://www.nand2tetris.org/), or *From NAND to Tetris: Building a Modern Computer from First Principles*. |
 
-* [Practice CTF List / Permanent CTF List](http://captf.com/practice-ctf/) (a
-  comprehensive list of CTF challenges specifically; have not examined every
-entry; see also this [Stack Exchange
-thread](https://security.stackexchange.com/questions/3592/what-hacking-competitions-challenges-exist)
-and this [Reddit
-thread](https://www.reddit.com/r/HowToHack/comments/4qxhjn/21_hacking_sites_ctfs_and_wargames_to_practice/))
 * [Programming Game](https://programming-game.com/) - A realtime survival MMORPG played via websockets. There's a super simple in browser [demo](https://programming-game.com/demo) that showcases how to play.
 * [pwnable.kr](http://pwnable.kr)
 * [pwnable.tw](https://pwnable.tw/)
