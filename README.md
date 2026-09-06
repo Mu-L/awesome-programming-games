@@ -14,8 +14,10 @@ request](https://github.com/readyready15728/awesome-programming-games/pull/18),
 namely "What qualifies a game as being gamified?" that "The application or
 site should have many of the trappings of a traditional computer or video
 game." Currently, a number of entries included in the `README.md` do not fit
-this criterion and will eventually be moved to a separate
-`awesome-coding-challenges` `README.md`.
+this criterion and will eventually be moved to a separate `README.md`. The
+two destination repositories I have in mind will be `awesome-coding-challenges` for
+general coding challenges and `awesome-ctf-challenges` for
+cybersecurity-specific coding challenges.
 
 In addition, I will not be accepting any submissions directly related to large
 language models, also known as LLMs. AI up to and including deep learning
